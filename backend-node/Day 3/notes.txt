@@ -1,0 +1,2 @@
+Hello Shriya! This is your first note.
+I am learning Node.js fs module.
